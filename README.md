@@ -7,17 +7,17 @@ Hello and welcome! My name is Cecilia, and in this amazing project, I will creat
 --------------------------------------------------------------------------
 ### Getting Started
 
-First, begin by spinning up an Ubuntu 18.04 instance using the AWS Console. 
+In this section, we will spin up an Ubuntu instance and then install the following tools: 
+- Docker
+- Node.js and npm
+
+First, begin by spinning up an Ubuntu instance using the AWS Management Console. 
 
 ![](./images/awsserver.png)
 
-After the instance is in a running state, we will use the downloaded key pair to securely connect to the remote server.
+After the instance has reached a running state, use the downloaded key pair to securely connect to the remote server.
 
 ![](./images/ssh.png)
-
-In the upcoming sections, we will install the following tools: 
-- Docker
-- Node.js, and npm
 
 ##### Installing Docker
 
